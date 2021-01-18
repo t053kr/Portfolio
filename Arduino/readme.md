@@ -8,7 +8,7 @@ The main frame of an Arduino project is:
 
 **Unreal Engine** to have a game scene, 
 **Arduino board** is used to alter the gaming experience, 
-**Plugin** is something that Unreal Engine uses, and in these projects they are primarly data transfer -plugins.
+**Plugin** is something that Unreal Engine uses, and in these projects they are primarily data transfer -plugins.
 
 ## Programming
 
